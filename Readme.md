@@ -30,7 +30,7 @@
 
 1. 下載或 Clone 此專案：
     ```bash
-    git clone https://github.com/yourusername/dynamic-qrcode-app.git
+    git clone https://github.com/JasonHungApp/jjQRcode.git
     ```
 
 2. 使用 Xcode 開啟專案。
