@@ -17,6 +17,7 @@
 		F349F7932CB5073A006E369D /* ViewController_v2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F349F7922CB5073A006E369D /* ViewController_v2.swift */; };
 		F349F7952CB50866006E369D /* ViewController_v3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F349F7942CB50866006E369D /* ViewController_v3.swift */; };
 		F349F7972CB514C2006E369D /* ViewController_v4_good.swift in Sources */ = {isa = PBXBuildFile; fileRef = F349F7962CB514C2006E369D /* ViewController_v4_good.swift */; };
+		F350D2A42CB681E200499163 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = F350D2A32CB681E200499163 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F349F7922CB5073A006E369D /* ViewController_v2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_v2.swift; sourceTree = "<group>"; };
 		F349F7942CB50866006E369D /* ViewController_v3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_v3.swift; sourceTree = "<group>"; };
 		F349F7962CB514C2006E369D /* ViewController_v4_good.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_v4_good.swift; sourceTree = "<group>"; };
+		F350D2A32CB681E200499163 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F349F7852CB50359006E369D /* Assets.xcassets */,
 				F349F7872CB50359006E369D /* LaunchScreen.storyboard */,
 				F349F78A2CB50359006E369D /* Info.plist */,
+				F350D2A32CB681E200499163 /* Readme.md */,
 			);
 			path = jjQRcode;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				F349F7862CB50359006E369D /* Assets.xcassets in Resources */,
 				F349F7892CB50359006E369D /* Base in Resources */,
+				F350D2A42CB681E200499163 /* Readme.md in Resources */,
 				F349F7842CB50358006E369D /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
