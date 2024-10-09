@@ -50,6 +50,7 @@
 		F349F7702CB50358006E369D = {
 			isa = PBXGroup;
 			children = (
+				F350D2A32CB681E200499163 /* Readme.md */,
 				F349F77B2CB50358006E369D /* jjQRcode */,
 				F349F77A2CB50358006E369D /* Products */,
 			);
@@ -74,7 +75,6 @@
 				F349F7852CB50359006E369D /* Assets.xcassets */,
 				F349F7872CB50359006E369D /* LaunchScreen.storyboard */,
 				F349F78A2CB50359006E369D /* Info.plist */,
-				F350D2A32CB681E200499163 /* Readme.md */,
 			);
 			path = jjQRcode;
 			sourceTree = "<group>";
